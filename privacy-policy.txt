@@ -1,7 +1,0 @@
-Privacy Policy for Tile Swapper
-
-Firebow Games ("we," "our," or "us") operates the Tile Swapper mobile application.
-
-Data Collection: We do not collect any personal user data. However, the app uses Google AdMob, which may collect advertising identifiers (IDFA/AAID) to serve personalized or non-personalized ads. Third-Party Services: Our app uses Google Play Services and AdMob. Please refer to their privacy policies for details on how they handle data. Children's Privacy: Our app is designed to be family-friendly and does not knowingly collect data from children.
-
-For any questions, contact us at: official.firebowgames@gmail.com
